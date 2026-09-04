@@ -12,6 +12,6 @@ ENDCLASS.
 
 CLASS zmh_holamundo IMPLEMENTATION.
   METHOD if_oo_adt_classrun~main.
-    out->write('Hola Mundo test ').
+    out->write( 'Hola Mundo test' ).
   ENDMETHOD.
 ENDCLASS.
